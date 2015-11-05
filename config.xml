@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>absmodule</name>
+            <displayName><![CDATA[ABS Module]]></displayName>
+            <version><![CDATA[1.0]]></version>
+            <description><![CDATA[This module is used for importing ABS products into prestashop.]]></description>
+            <author><![CDATA[Sanket Sharma]]></author>
+            <tab><![CDATA[administration]]></tab>
+	<confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+        </module>
